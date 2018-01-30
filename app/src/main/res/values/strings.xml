@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kendali Atap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="setting_warning">*isi field dengan nomor IP atau domain \n*jangan lupa port nya (default :80)</string>
+    <string name="team">Adit\nAndre\nApril\nAfif\nAvin</string>
+    <string name="content_title">Atap Rumah</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+</resources>
